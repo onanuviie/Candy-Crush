@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-image: url("../images/candy-crush1.svg");
+    background-image: url("candy-crush1.svg");
     background-size: auto;
     background-repeat: no-repeat;
 }
