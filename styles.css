@@ -3,7 +3,9 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-image: url("candy-crush.jpg");
+    background-image: url("../images/candy-crush.svg");
+    background-size: auto;
+    background-repeat: no-repeat;
 }
 
 .grid {
