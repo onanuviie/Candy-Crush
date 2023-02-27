@@ -3,6 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
+    background-image: url("../images/candy-crush.jpg");
 }
 
 .grid {
@@ -17,3 +18,24 @@ body {
     width: 32px;
 }
 
+#score {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.score-board {
+    margin-right: 18px;
+    text-align: center;
+    background-color: rgb(81, 150, 179);
+    border-radius: 10px;
+    color: #f4f4f4;
+    min-width: 80px;
+    background-image: linear-gradient(#8bd5e0, #139ed0);
+    box-shadow: 0 2px 4px rgba(145, 143, 143, 0.5) inset, 0 1px 0 #fff;
+}
+
+.score-board h3 {
+    margin: 10px;
+    font-size: 20px;
+}

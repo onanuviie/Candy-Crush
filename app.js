@@ -3,6 +3,7 @@ const scoreDisplay= document.getElementById('score')
 const width = 8
 const squares = []
 let score = 0
+scoreDisplay.innerHTML = score
 
 const candyColors = [
     'url(images/fotor_red.png)',
