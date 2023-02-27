@@ -1,5 +1,5 @@
 # Candy-Crush
-A JavaScript Gaeme inspired by Candy Crush
+A JavaScript Game inspired by Candy Crush
 
 In this project I made use of: 
 + Array methods 
